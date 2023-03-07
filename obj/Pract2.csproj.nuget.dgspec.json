@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MPT\\WPF\\Pract2\\Pract2.csproj": {}
+    "C:\\Users\\5201\\OneDrive\\Рабочий стол\\Code\\WPF\\Pract2\\Pract2.csproj": {}
   },
   "projects": {
-    "D:\\MPT\\WPF\\Pract2\\Pract2.csproj": {
+    "C:\\Users\\5201\\OneDrive\\Рабочий стол\\Code\\WPF\\Pract2\\Pract2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MPT\\WPF\\Pract2\\Pract2.csproj",
+        "projectUniqueName": "C:\\Users\\5201\\OneDrive\\Рабочий стол\\Code\\WPF\\Pract2\\Pract2.csproj",
         "projectName": "Pract2",
-        "projectPath": "D:\\MPT\\WPF\\Pract2\\Pract2.csproj",
-        "packagesPath": "C:\\Users\\551de\\.nuget\\packages\\",
-        "outputPath": "D:\\MPT\\WPF\\Pract2\\obj\\",
+        "projectPath": "C:\\Users\\5201\\OneDrive\\Рабочий стол\\Code\\WPF\\Pract2\\Pract2.csproj",
+        "packagesPath": "C:\\Users\\5201\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\5201\\OneDrive\\Рабочий стол\\Code\\WPF\\Pract2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Software\\MVisualStudio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\551de\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\5201\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -36,21 +36,21 @@
             Style="{StaticResource MaterialDesignRaisedButton}"
             materialDesign:ButtonAssist.CornerRadius="10"
             ToolTip="MaterialDesignRaisedButton with Round Corners"
-            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Grid.Column="0" Grid.Row="7" Grid.ColumnSpan="2" Margin="10,11,5,11" Click="DeleteButton_Click">
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Grid.Column="0" Grid.Row="7" Grid.ColumnSpan="2" Margin="10,0,10,0" Click="DeleteButton_Click">
             <TextBlock Text="Удалить" />
         </Button>
         <Button
             Style="{StaticResource MaterialDesignRaisedButton}"
             materialDesign:ButtonAssist.CornerRadius="10"
             ToolTip="MaterialDesignRaisedButton with Round Corners"
-            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Grid.Column="2" Grid.Row="7" Margin="10,11,5,11" Click="CreateButton_Click">
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Grid.Column="2" Grid.Row="7" Margin="10,0,10,0" Click="CreateButton_Click">
             <TextBlock Text="Создать" />
         </Button>
         <Button
             Style="{StaticResource MaterialDesignRaisedButton}"            
             materialDesign:ButtonAssist.CornerRadius="10"
             ToolTip="MaterialDesignRaisedButton with Round Corners"
-            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Grid.Column="3" Grid.Row="7" Margin="10,11,10,11" Click="SaveButton_Click">
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Grid.Column="3" Grid.Row="7" Margin="10,0,10,0" Click="SaveButton_Click">
             <TextBlock Text="Сохранить" />
         </Button>
         <ListBox x:Name="ListOfNotes" d:ItemsSource="{d:SampleData ItemCount=0}" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" Grid.RowSpan="6" SelectionChanged="ListBox_SelectionChanged"/>

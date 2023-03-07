@@ -38,3 +38,43 @@ D:\MPT\WPF\Pract2\obj\Debug\net7.0-windows\refint\Pract2.dll
 D:\MPT\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.pdb
 D:\MPT\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.genruntimeconfig.cache
 D:\MPT\WPF\Pract2\obj\Debug\net7.0-windows\ref\Pract2.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\Pract2.exe
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\Pract2.deps.json
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\Pract2.runtimeconfig.json
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\Pract2.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\Pract2.pdb
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\MaterialDesignExtensions.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\MaterialDesignXaml.DialogsHelper.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\ru\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\ar-DZ\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\cs-CZ\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\cs\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\de\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\fr-FR\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\fr\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\pt-BR\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\pt\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\ru-RU\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\bin\Debug\net7.0-windows\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.csproj.AssemblyReference.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2_MarkupCompile.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2_MarkupCompile.lref
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\App.baml
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.g.resources
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.AssemblyInfoInputs.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.AssemblyInfo.cs
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.csproj.CoreCompileInputs.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.csproj.CopyComplete
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\refint\Pract2.dll
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.pdb
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\Pract2.genruntimeconfig.cache
+C:\Users\5201\OneDrive\Рабочий стол\Code\WPF\Pract2\obj\Debug\net7.0-windows\ref\Pract2.dll
