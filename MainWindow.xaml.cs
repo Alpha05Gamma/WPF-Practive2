@@ -1,24 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace Pract2
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -26,10 +11,10 @@ namespace Pract2
             InitializeComponent();
         }
 
-        NoteList allNotes = new NoteList(); ///создание списка всех заметок и заметок на выбранные даты
+        NoteList allNotes = new NoteList();
         List<Note> currentNotes = new List<Note>();
 
-        private void SaveButton_Click(object sender, RoutedEventArgs e) ///сохранение изменений в заметке
+        private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
             allNotes.notes.Remove(currentNotes[ListOfNotes.SelectedIndex]);
 
@@ -42,7 +27,7 @@ namespace Pract2
             CurrentNotesUpd();
         }
 
-        private void CreateButton_Click(object sender, RoutedEventArgs e) ///создание заметки
+        private void CreateButton_Click(object sender, RoutedEventArgs e)
         {
             Note note = new Note(NameBox.Text, DescBox.Text, dp1.SelectedDate.Value);
             allNotes.notes.Add(note);
@@ -50,7 +35,7 @@ namespace Pract2
             CurrentNotesUpd();
         }
 
-        private void DeleteButton_Click(object sender, RoutedEventArgs e) ///удаление заметки
+        private void DeleteButton_Click(object sender, RoutedEventArgs e) 
         {
             allNotes.notes.Remove(currentNotes[ListOfNotes.SelectedIndex]);
             allNotes.SaveList();
@@ -59,7 +44,7 @@ namespace Pract2
             CurrentNotesUpd();
         }
 
-        private void dp1_SelectedDateChanged(object sender, SelectionChangedEventArgs e) ///обработка изменения выбранной даты
+        private void dp1_SelectedDateChanged(object sender, SelectionChangedEventArgs e) 
         {
             try
             {
@@ -75,7 +60,7 @@ namespace Pract2
             
         }
 
-        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e) /// обработка выбора заметки
+        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e) 
         {
             try
             {
@@ -90,7 +75,7 @@ namespace Pract2
             
         }
 
-        private void CurrentNotesUpd() ///обновление списка заметок к выбранной дате
+        private void CurrentNotesUpd() 
         {
             string date = dp1.SelectedDate.Value.ToShortDateString();
 

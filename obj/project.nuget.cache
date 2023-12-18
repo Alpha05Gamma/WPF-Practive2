@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "FrF13ag7a9KEf5nJ3XYaIoMe/zMLEgS/7UA+4uPr9AZUjz6kCzYWbTPpHZhto1kxGsbJ8RG1qP3XqRoCYriwAQ==",
+  "dgSpecHash": "nbF9aDsOi1fYQsqE9NChrAuY46ITFVQU+aFf01pE8sXwEkIuQ+PTaoBammXk+wauXMkLvJdyBCdXWI8KFp2ndQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\5201\\OneDrive\\Рабочий стол\\Code\\WPF\\Pract2\\Pract2.csproj",
+  "projectFilePath": "C:\\UserF\\IT\\WPF\\Pract2\\Pract2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\5201\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
-    "C:\\Users\\5201\\.nuget\\packages\\materialdesignextensions\\3.3.0\\materialdesignextensions.3.3.0.nupkg.sha512",
-    "C:\\Users\\5201\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
-    "C:\\Users\\5201\\.nuget\\packages\\materialdesignthemes.wpf\\1.0.1\\materialdesignthemes.wpf.1.0.1.nupkg.sha512",
-    "C:\\Users\\5201\\.nuget\\packages\\materialdesignxaml.dialogshelper\\1.0.4\\materialdesignxaml.dialogshelper.1.0.4.nupkg.sha512",
-    "C:\\Users\\5201\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
-    "C:\\Users\\5201\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
-    "C:\\Users\\5201\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
-    "C:\\Users\\5201\\.nuget\\packages\\system.data.datasetextensions\\4.6.0-preview3.19128.7\\system.data.datasetextensions.4.6.0-preview3.19128.7.nupkg.sha512"
+    "C:\\Users\\551de\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\551de\\.nuget\\packages\\materialdesignextensions\\3.3.0\\materialdesignextensions.3.3.0.nupkg.sha512",
+    "C:\\Users\\551de\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\551de\\.nuget\\packages\\materialdesignthemes.wpf\\1.0.1\\materialdesignthemes.wpf.1.0.1.nupkg.sha512",
+    "C:\\Users\\551de\\.nuget\\packages\\materialdesignxaml.dialogshelper\\1.0.4\\materialdesignxaml.dialogshelper.1.0.4.nupkg.sha512",
+    "C:\\Users\\551de\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\551de\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\551de\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\551de\\.nuget\\packages\\system.data.datasetextensions\\4.6.0-preview3.19128.7\\system.data.datasetextensions.4.6.0-preview3.19128.7.nupkg.sha512"
   ],
   "logs": []
 }
